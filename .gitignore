@@ -1,9 +1,13 @@
+# Project exclude paths
+/out/
+/target/
+
 .idea/*
-out/*
-target/*
 
 *.class
 
 *.war
 *.jar
 *.ear
+# Project exclude paths
+/classes/
